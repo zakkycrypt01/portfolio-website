@@ -1,0 +1,55 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "edutoken-1",
+      "description": "Abstract representation of educational credentials on a blockchain.",
+      "imageUrl": "https://picsum.photos/seed/edutoken/600/338",
+      "imageHint": "blockchain education"
+    },
+    {
+      "id": "edutoken-2",
+      "description": "A digital certificate being verified on a futuristic interface.",
+      "imageUrl": "https://picsum.photos/seed/edutoken2/600/338",
+      "imageHint": "digital certificate"
+    },
+    {
+      "id": "crosschainbridge-1",
+      "description": "Visual of interconnected networks, symbolizing a cross-chain bridge.",
+      "imageUrl": "https://picsum.photos/seed/crosschain/600/338",
+      "imageHint": "interconnected network"
+    },
+    {
+      "id": "crosschainbridge-2",
+      "description": "Glowing assets moving between two distinct blockchain pillars.",
+      "imageUrl": "https://picsum.photos/seed/crosschain2/600/338",
+      "imageHint": "asset transfer"
+    },
+    {
+      "id": "defiyieldaggregator-1",
+      "description": "Digital assets growing, illustrating yield aggregation.",
+      "imageUrl": "https://picsum.photos/seed/defi/600/338",
+      "imageHint": "digital assets"
+    },
+    {
+      "id": "defiyieldaggregator-2",
+      "description": "A dashboard showing automated yield farming strategies and APY maximization.",
+      "imageUrl": "https://picsum.photos/seed/defi2/600/338",
+      "imageHint": "defi dashboard"
+    },
+    {
+      "id": "daovoting-1",
+      "description": "Illustration of a decentralized voting system.",
+      "imageUrl": "https://picsum.photos/seed/daovote/600/338",
+      "imageHint": "decentralized voting"
+    },
+    {
+      "id": "daovoting-2",
+      "description": "Community members collaborating on a governance proposal on-chain.",
+      "imageUrl": "https://picsum.photos/seed/daovote2/600/338",
+      "imageHint": "community governance"
+    }
+  ]
+}
+
+    
