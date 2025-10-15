@@ -10,7 +10,7 @@ export default function Contact() {
           I&apos;m currently open to new opportunities and collaborations. If you have a project in mind, a question, or just want to connect, my inbox is always open.
         </p>
         <Button asChild size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90">
-          <a href="mailto:zakkycrypt01@email.com">
+          <a href="mailto:zakkycrypt@gmail.com.com">
             <Mail className="mr-2 h-5 w-5" />
             Say Hello
           </a>
